@@ -11,36 +11,64 @@
 
 <p align="left">
 
+  <!-- Flutter -->
+
   <a href="https://flutter.dev/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
   </a>
+
+  <!-- Dart -->
 
   <a href="https://dart.dev/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
   </a>
 
+  <!-- C# -->
+
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
   </a>
+
+  <!-- Java -->
 
   <a href="https://www.java.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   </a>
 
+  <!-- Firebase -->
+
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
   </a>
+
+  <!-- Git -->
 
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   </a>
 
+  <!-- GitHub -->
+
   <a href="https://github.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   </a>
 
+  <!-- VS Code -->
+
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  </a>
+
+  <!-- Visual Studio -->
+
+  <a href="https://visualstudio.microsoft.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="40" height="40"/>
+  </a>
+
+  <!-- IntelliJ IDEA -->
+
+  <a href="https://www.jetbrains.com/idea/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/>
   </a>
 
 </p>
@@ -49,21 +77,32 @@
 
 * 📱 I'm a Flutter Developer focused on building mobile applications
 * 🎓 I'm a Computer and Information Sciences student at Mansoura University
-* 💙 Currently focusing on Flutter & Dart development
-* 🧠 Studied C#, Java, Dart, and Object-Oriented Programming (OOP)
-* 🚀 I'm continuously improving my problem-solving and software development skills
-* 🔥 Interested in building real-world mobile applications
-* 📚 Always learning new technologies and improving my development skills
+* 🐦 Currently focusing on Flutter & Dart development
+* 💻 Studied C#, Java, Dart, and Object-Oriented Programming (OOP)
+* 🧠 Interested in software development and problem solving
+* 🚀 I enjoy building projects and turning ideas into applications
+* 📚 Always learning and improving my programming skills
 * 🤝 Open to collaboration, learning opportunities, and interesting projects
 
-<h2 align="left">📱 What I'm Currently Learning:</h2>
+<h2 align="left">📚 Programming Knowledge:</h2>
 
-* 🐦 Flutter & Dart
-* 🏗️ Clean Code & Software Architecture
-* 🔌 API Integration
-* 🔥 Firebase
-* 🧩 Advanced OOP & Software Development Concepts
-* 💻 Problem Solving & Data Structures
+* 🐦 Dart & Flutter
+* 💜 C#
+* ☕ Java
+* 🧩 Object-Oriented Programming (OOP)
+* 🔧 Git & GitHub
+* 💻 VS Code
+* 🟣 Visual Studio
+* 🧠 IntelliJ IDEA
+
+<h2 align="left">🚀 Currently Focusing On:</h2>
+
+* 📱 Building Flutter mobile applications
+* 🐦 Improving my Dart & Flutter skills
+* 🔌 Learning API integration
+* 🔥 Exploring Firebase
+* 🏗️ Learning clean and maintainable code
+* 🧠 Improving problem-solving skills
 
 <h2 align="left">🎯 My Goal:</h2>
 
@@ -72,7 +111,17 @@
   scalable, and user-friendly mobile applications.
 </p>
 
-<h2 align="left">:heart: Let's get connected:</h2>
+<h2 align="left">📊 GitHub Stats:</h2>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=amednasser25-cmyk&show_icons=true&theme=tokyonight" alt="Ahmed's GitHub Stats"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amednasser25-cmyk&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
+
+<h2 align="left">❤️ Let's get connected:</h2>
 
 <p align="left">
 
@@ -85,4 +134,3 @@
   </a>
 
 </p>
-
